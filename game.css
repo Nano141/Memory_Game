@@ -1,0 +1,154 @@
+body {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: large;
+background-color: #000000; 
+}
+div#med-level{
+text-align: center;
+color: #228B22;
+}
+div#easy-level{
+text-align: center;
+color: #DE42FD;
+}
+div#hard-level{
+text-align: center;
+color: #EA3E3E;
+}
+div#easy{
+text-align: center;
+font-size: 20pt;
+color: #DE42FD;
+}
+div#player1-easy {
+float: left;
+margin-left:50px;
+margin-top:60px;
+text-align: left;
+color: #DE42FD;
+}
+div#player2-easy {
+float: right;
+margin-right:60px;
+margin-top: 60px;
+text-align: left;
+color: #DE42FD;
+}
+div#cards {
+margin-top:180px;
+text-align: center;
+}
+div#cards1 {
+text-align: center;
+}
+div#cards2 {
+text-align: center;
+}
+div#cards3 {
+text-align: center;
+}
+div#cards4 {
+text-align: center;
+}
+div#cards5 {
+text-align: center;
+}
+div#cards6 {
+text-align: center;
+}
+div#cards7 {
+text-align: center;
+}
+div#player1-med {
+float: left;
+margin-left:50px;
+margin-top:60px;
+text-align: left;
+color: #228B22;
+}
+div#player2-med {
+float: right;
+margin-right:70px;
+margin-top: 60px;
+text-align: right;
+color: #228B22;
+}
+div#med {
+text-align: center;
+color: #228B22;
+font-size: 20pt;
+}
+div#start{
+text-align: center;
+color: #228CFF;
+}
+div#choose1{
+float: left;
+margin-top:90px;
+font-size: 16pt;
+margin-left:70px;
+text-align: left;
+color: #228CFF;
+}
+div#choose2{
+float: right;
+margin-top:90px;
+font-size: 16pt;
+margin-right:70px;
+text-align: left;
+color: #228CFF;
+}
+div#choose-level{
+margin-top:50px;
+font-size: 16pt;
+text-align: center;
+color: #228CFF;
+}
+.button {
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #98C9FF;
+  color: black;
+  border: none;
+}
+
+.button2 {
+  background-color: #98C9FF;
+  color: black;
+  border: none;
+}
+.button3 {
+  background-color: #98C9FF;
+  color: black;
+  border: none;
+}
+div#player1-hard {
+float: left;
+margin-left:50px;
+margin-top:60px;
+text-align: left;
+color: #EA3E3E;
+}
+div#player2-hard {
+float: right;
+margin-right:70px;
+margin-top: 60px;
+text-align: right;
+color: #EA3E3E;
+}
+div#hard {
+text-align: center;
+color: #EA3E3E;
+font-size: 20pt;
+}
